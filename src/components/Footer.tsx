@@ -1,7 +1,7 @@
 import { Mail, MessageCircle, Phone } from "lucide-react";
 
 const WHATSAPP_URL =
-  "https://api.whatsapp.com/send?phone=56920375704&text=Hola,%20quiero%20cotizar%20mi%20p%C3%A1gina%20web";
+  "https://api.whatsapp.com/send?phone=56934550778&text=Hola,%20quiero%20cotizar%20mi%20p%C3%A1gina%20web";
 
 export default function Footer() {
   return (
@@ -23,7 +23,7 @@ export default function Footer() {
             <MessageCircle className="h-5 w-5" />
           </a>
           <a
-            href="tel:+56920375704"
+            href="tel:+56934550778"
             aria-label="Teléfono"
             className="flex h-12 w-12 items-center justify-center rounded-xl border border-white/40 transition-colors hover:bg-white/10"
           >

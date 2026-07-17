@@ -3,7 +3,7 @@
 import { MessageCircle } from "lucide-react";
 
 const WHATSAPP_URL =
-  "https://api.whatsapp.com/send?phone=56920375704&text=Hola,%20quiero%20cotizar%20mi%20p%C3%A1gina%20web";
+  "https://api.whatsapp.com/send?phone=56934550778&text=Hola,%20quiero%20cotizar%20mi%20p%C3%A1gina%20web";
 
 export default function WhatsappFloat() {
   return (
